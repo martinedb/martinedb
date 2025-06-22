@@ -21,7 +21,7 @@
 
 - **Programming:** Python, R, SQL  
 - **Web:** HTML, CSS, Markdown  
-- **Data & Productivity:** Excel (VBA & Office Scripts), PowerBI  
+- **Data Analysis:** Excel (VBA & Office Scripts), PowerBI  
 - **Design & Engineering:** AutoCAD, SOLIDWORKS, Canva  
 
 ---
