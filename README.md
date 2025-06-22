@@ -1,7 +1,7 @@
 # 👋🏿 Hello there! I’m Martin(he/him/his)
 
-- 🎓 **5th-year Chemical Engineering student** at the University of British Columbia (UBC), Vancouver  
-- 💧 **Urban Water Treatment Co-op Student** @ Associated Engineering  
+- 🎓 **5th-year Chemical Engineering student** at the University of British Columbia (UBC) in Vancouver  
+- 💧 **Urban Water Treatment Co-op Student** at Associated Engineering  
 - ✍️ **Content Writer** at Young Canadians for Resources  
 - 👥 **4th-Year Rep** for the Departmental Council of Chemical and Biological Engineering at UBC
 
