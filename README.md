@@ -56,3 +56,7 @@
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinedb&show_icons=true&theme=default)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=martinedb&style=flat-square)
+
+## 🗣️ Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinedb&layout=compact)
