@@ -33,7 +33,7 @@
 - 🌐 Building my GitHub personal portfolio  
 - 💼 Developing my freelance personal portfolio
 - 🧪 Creating a website to showcase relevant resources for Chemical Engineering students
-- 💻 Uploading my coding projects to showcase to the world
+- 💻 Uploading my coding projects to showcase on GitHub
 
 ---
 
