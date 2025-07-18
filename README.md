@@ -5,7 +5,8 @@
 - ✍️ **Content Writer** at Young Canadians for Resources and Medium
 - 👥 **4th-Year Rep** for the Departmental Council of Chemical and Biological Engineering at UBC
 - 🏥 **Data Analyst** for Axon Health Inc.
-
+- 🧷 **National Student Council Advisor** for the Courage To Act Foundation
+- ⚙️ **Engineering Ambassador** at UBC
 ---
 
 ## 🌱 Passions and Career Interests
