@@ -1,10 +1,9 @@
 # 👋🏿 Hello there! I’m Martin(he/him/his)
 
-- 🎓 **5th-year Chemical Engineering student** at the University of British Columbia (UBC) in Vancouver  
-- 💧 **Urban Water Treatment Co-op Student** at Associated Engineering  
+- 🎓 **5th-year Chemical Engineering student** at the University of British Columbia (UBC) in Vancouver
+- 💚 **Climate Solutions Project Assistant** at the UBC Climate Solutions Research Collective
 - ✍️ **Content Writer** at Young Canadians for Resources and Medium
 - 👥 **4th-Year Student Representative** for the Departmental Council of Chemical and Biological Engineering at UBC
-- 🏥 **Data Analyst** for Axon Health Inc.
 - 🧷 **National Student Council Advisor** + **At the Root Project Advisory Committee Advisor** for the Courage To Act Foundation
 - ⚙️ **Engineering Ambassador** at UBC
 ---
