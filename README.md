@@ -1,11 +1,15 @@
-# 👋🏿 Hello there! I’m Martin(he/him/his)
+# 👋🏿 Hello there! I’m Martin (he/him/his)
 
-- 🎓 **5th-year Chemical Engineering student** at the University of British Columbia (UBC) in Vancouver
-- 💚 **Climate Solutions Project Assistant** at the UBC Climate Solutions Research Collective
+
+## 👨🏿‍💻 About Me
+
+I'm a Process Engineer-in-Training based in Edmonton, Alberta, working on water and wastewater infrastructure projects.
+
+- ⚙️ **Process Engineer-in-Training** at Associated Engineering
+- 🎓 **Alumni Engineering Ambassador** for University of British Columbia
+- 🎓 **Recent UBC Process Engineering Graduate**
+- 🏗️ **Student Team Design Lead** for WPC Dragons' Dam Competition
 - ✍️ **Content Writer** at Young Canadians for Resources and Medium
-- 👥 **4th-Year Student Representative** for the Departmental Council of Chemical and Biological Engineering at UBC
-- 🧷 **National Student Council Advisor** + **At the Root Project Advisory Committee Advisor** for the Courage To Act Foundation
-- ⚙️ **Engineering Ambassador** at UBC
 ---
 
 ## 🌱 Passions and Career Interests
@@ -14,18 +18,33 @@
 - 💦 Water and Wastewater Treatment  
 - 📈 Productivity and Time Management  
 - 🚀 Career Development  
-- 📊 Data Analysis  
+- 📊 Data Analysis and Analytics
 
 ---
 
-## 🛠️ Skills
+## 🔧 Technical Stack
 
-- **Programming:** Python, R, SQL  
-- **Web:** HTML, CSS, Markdown  
-- **Data Analysis:** Excel (VBA & Office Scripts), PowerBI, JavaScript
-- **Design & Engineering:** AutoCAD, SOLIDWORKS, Canva  
+### Engineering
+- AutoCAD
+- AutoCAD Plant 3D
+- SOLIDWORKS
 
----
+### Programming
+- Python
+- R
+- SQL
+- JavaScript
+
+### Data Analytics
+- Excel
+- VBA
+- Office Scripts
+- Power BI
+
+### Documentation
+- Markdown
+- Git
+- GitHub
 
 ## 🚧 Current Projects
 
@@ -37,11 +56,12 @@
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
-- 🏗️ AutoCAD and AutoCAD Plant 3D  
-- 💧 Water and Wastewater Treatment Systems  
-- 📊 PowerBI  
+- Water & Wastewater Infrastructure
+- Engineering Process Automation
+- Python for Engineering Applications
+- Power BI Dashboards
 
 ---
 
