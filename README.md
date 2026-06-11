@@ -55,6 +55,7 @@ I'm a Process Engineer-in-Training based in Edmonton, Alberta, working on water 
 
 - 📧 Email: edwinibon90210@gmail.com  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin%20Edwini--Bonsu-blue?logo=linkedin)](https://www.linkedin.com/in/martineb/)
+- [![YouTube](https://img.shields.io/badge/YouTube-Martin%20Bonsu-red?logo=youtube)]([text](https://www.youtube.com/@martiniluigi560))
 - [![Linktree](https://img.shields.io/badge/Linktree-@martinbonsu-green?logo=linktree)](https://linktr.ee/martinbonsu)
 
 ## 🖥️GitHub Stats
