@@ -22,29 +22,15 @@ I'm a Process Engineer-in-Training based in Edmonton, Alberta, working on water 
 
 ---
 
-## 🔧 Technical Stack
+## 🛠️ Technical Stack
 
-### Engineering
-- AutoCAD
-- AutoCAD Plant 3D
-- SOLIDWORKS
-
-### Programming
-- Python
-- R
-- SQL
-- JavaScript
-
-### Data Analytics
-- Excel
-- VBA
-- Office Scripts
-- Power BI
-
-### Documentation
-- Markdown
-- Git
-- GitHub
+| Category | Technologies |
+|-----------|-------------|
+| 🐍 Programming | Python, R, SQL |
+| 📊 Data Analysis | Excel, VBA, Office Scripts, Power BI |
+| 🌐 Web & Documentation | HTML, CSS, Markdown, GitHub |
+| ⚙️ Engineering Tools | AutoCAD, AutoCAD Plant 3D, SOLIDWORKS |
+| 🎨 Design & Communication | Canva |
 
 ## 🚧 Current Projects
 
